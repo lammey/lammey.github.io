@@ -1,0 +1,4 @@
+baseURL = 'https://lammey.github.io/'
+languageCode = 'en-us'
+title = 'Lammey'
+theme = 'ananke'
